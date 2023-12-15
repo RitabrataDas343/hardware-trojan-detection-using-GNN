@@ -1,0 +1,32 @@
+language: python
+
+notifications:
+  email:
+    - dasritabrata5@gmail.com
+
+os:
+  - arch-linux
+
+python:
+  - "3.8"
+
+env:
+  - COVERAGE_RCFILE=".coveragerc" PYLINTRC=".pylintrc"
+
+install:
+  - pip install .
+  - pip install -r requirements_dev.txt
+  - sudo add-apt-repository universe
+  - sudo apt update
+  - sudo apt install graphviz
+  - pip install pygraphviz
+  - pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+  - pip install --no-index torch-scatter -f https://pytorch-geometric.com/whl/torch-1.6.0+cpu.html
+  - pip install --no-index torch-sparse -f https://pytorch-geometric.com/whl/torch-1.6.0+cpu.html
+  - pip install --no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-1.6.0+cpu.html
+  - pip install --no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.6.0+cpu.html
+  - pip install torch-geometric==1.6.1
+
+script:
+  - cd ./tests
+  - pytest --disable-pytest-warnings test.py
