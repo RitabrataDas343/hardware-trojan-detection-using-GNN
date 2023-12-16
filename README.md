@@ -440,3 +440,31 @@ Jizhong Yang, Ying Zhang, Member, IEEE, Yifeng Hua, Jiaqi Yao, Zhiming Mao and X
 Rozhin Yasaei*, Shih-Yuan Yu*, Mohammad Abdullah Al Faruque, “GNN4TJ: Graph Neural
 Networks for Hardware Trojan Detection at Register Transfer Level”
 
+## Sample Report
+![TJ-GNN_page-0001](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/011be0c5-6e9e-4e28-99e0-dec194092502)
+![TJ-GNN_page-0002](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/1229ffee-1ecc-4842-917b-0e959baf04d2)
+![TJ-GNN_page-0003](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/53aa3953-0cff-463f-b6cb-41cc9c76216c)
+![TJ-GNN_page-0004](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/4d40a7ea-bc52-4234-88ae-5c6e8305868c)
+![TJ-GNN_page-0005](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/c94f0c2a-89b2-4c1e-8ae7-29766555a580)
+![TJ-GNN_page-0006](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/8a698f52-d648-47a7-9003-011b0c6ce38e)
+![TJ-GNN_page-0007](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/4febe81f-5c04-4047-8e56-2d774a982b28)
+![TJ-GNN_page-0008](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/b57c87a3-7525-4ced-bbe0-28f3c8930271)
+![TJ-GNN_page-0009](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/f6a5f038-e50a-48a0-b5a2-98708239347f)
+![TJ-GNN_page-0010](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/88021ed2-bd55-47c2-af7f-079e46c2fcd9)
+![TJ-GNN_page-0011](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/a1f0a44d-f4ef-4d7d-b50f-2f9139720742)
+![TJ-GNN_page-0012](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/21166b36-c40b-49cd-a9f4-a2a4c65b05a2)
+![TJ-GNN_page-0013](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/a9ecdc74-4e87-4635-a6f0-7b3701bc67f3)
+![TJ-GNN_page-0014](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/f593045c-352f-4ca5-be89-821cdc56714e)
+![TJ-GNN_page-0015](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/d7feb544-1069-4d21-904b-b2273af17c78)
+![TJ-GNN_page-0016](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/4b673c6e-6704-447c-bae8-456b48be82a9)
+![TJ-GNN_page-0017](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/f3d2f7c0-dcb5-4502-83f9-c4a6ee89fd6f)
+![TJ-GNN_page-0018](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/46d75532-cc51-4291-aa67-8a3aa76be281)
+![TJ-GNN_page-0019](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/a7230a44-4cb5-4505-86ab-af7f64cb828e)
+![TJ-GNN_page-0020](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/1408b8ee-bc6c-494e-a794-e58ca1f4571d)
+![TJ-GNN_page-0021](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/5320315c-a999-4108-9bd7-430e2360d4f1)
+![TJ-GNN_page-0022](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/facb7d31-a732-4f1f-bc3d-89eca2b1c874)
+![TJ-GNN_page-0023](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/e1729489-e9c5-4b7b-a34f-267ad493a7a2)
+![TJ-GNN_page-0024](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/bb6a94d5-f3c4-4c70-ba3a-f22bbe407d8e)
+![TJ-GNN_page-0025](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/60c061c2-4126-4e4b-8043-51f6e5b81048)
+![TJ-GNN_page-0026](https://github.com/RitabrataDas343/hardware-trojan-detection-using-GNN/assets/76585827/4cb5a894-9870-4bcf-bbea-18980cd3d131)
+
